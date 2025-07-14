@@ -1,0 +1,135 @@
+ PMA_token |s:32:"302e4c5f6a484f45626c223a352c5428"; HMAC_secret |s:16:",J?Rq$[&gjIhKcoQ";browser_access_time|a:12:{s:7:"default";i:1752068636;s:36:"7654e1ed-ad93-2699-e673-099442a43bd0";i:1751544991;s:36:"38300660-9d20-ce97-e8b7-370cc2daaa28";i:1751610060;s:36:"ecd3b674-6bae-afd1-35d9-42570a8c25d7";i:1751612769;s:36:"beb5c7d6-8569-9aae-18b1-bdcec0e8102e";i:1751614498;s:36:"744b3e6f-0ed7-b009-e3d5-a9686c8d69ef";i:1751628150;s:36:"c64896d3-f74d-ab2d-c8d6-0f12a58d752f";i:1751633901;s:36:"b11b8941-7935-99e4-a9df-faa2ab942f7c";i:1751962255;s:36:"b83c916c-acfd-2434-242d-df8015cc0bdd";i:1751964099;s:36:"3914c896-0b56-bad2-c21a-d5cd8d15252b";i:1751972210;s:36:"1d35931d-bf66-867d-584e-d08d662f61b9";i:1752067238;s:36:"0e3550b8-3251-4720-09e9-c27321dfc629";i:1752078894;}relation|a:1:{i:1;a:41:{s:7:"version";s:5:"5.2.1";s:4:"user";N;s:2:"db";N;s:8:"bookmark";N;s:15:"central_columns";N;s:11:"column_info";N;s:17:"designer_settings";N;s:16:"export_templates";N;s:8:"favorite";N;s:7:"history";N;s:16:"navigationhiding";N;s:9:"pdf_pages";N;s:6:"recent";N;s:8:"relation";N;s:13:"savedsearches";N;s:12:"table_coords";N;s:10:"table_info";N;s:13:"table_uiprefs";N;s:8:"tracking";N;s:10:"userconfig";N;s:10:"usergroups";N;s:5:"users";N;s:12:"bookmarkwork";b:0;s:8:"mimework";b:0;s:18:"centralcolumnswork";b:0;s:8:"commwork";b:0;s:9:"menuswork";b:0;s:20:"designersettingswork";b:0;s:11:"displaywork";b:0;s:19:"exporttemplateswork";b:0;s:12:"favoritework";b:0;s:7:"navwork";b:0;s:7:"pdfwork";b:0;s:10:"recentwork";b:0;s:7:"relwork";b:0;s:17:"savedsearcheswork";b:0;s:11:"historywork";b:0;s:12:"trackingwork";b:0;s:11:"uiprefswork";b:0;s:14:"userconfigwork";b:0;s:8:"allworks";b:0;}}userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:2:"de";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1751611451;}two_factor_check|b:1;cache|a:3:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1751611451;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1447166788;s:9:"userprefs";a:2:{s:4:"lang";s:2:"de";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:13:"server_1_root";a:17:{s:17:"is_create_db_priv";b:1;s:14:"is_reload_priv";b:1;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:1:"*";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:1;s:10:"table_priv";b:1;s:8:"col_priv";b:1;s:7:"db_priv";b:1;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:11:"Datenbanken";s:3:"sql";s:3:"SQL";s:6:"status";s:6:"Status";s:6:"rights";s:8:"Benutzer";s:6:"export";s:11:"Exportieren";s:6:"import";s:11:"Importieren";s:8:"settings";s:13:"Einstellungen";s:6:"binlog";s:18:"Binäres Protokoll";s:11:"replication";s:11:"Replikation";s:4:"vars";s:9:"Variablen";s:7:"charset";s:13:"Zeichensätze";s:7:"plugins";s:13:"Erweiterungen";s:6:"engine";s:7:"Formate";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:8:"Struktur";s:3:"sql";s:3:"SQL";s:6:"search";s:5:"Suche";s:5:"query";s:7:"Abfrage";s:6:"export";s:11:"Exportieren";s:6:"import";s:11:"Importieren";s:9:"operation";s:11:"Operationen";s:10:"privileges";s:6:"Rechte";s:8:"routines";s:8:"Routinen";s:6:"events";s:10:"Ereignisse";s:8:"triggers";s:7:"Trigger";s:8:"tracking";s:14:"Nachverfolgung";s:8:"designer";s:8:"Designer";s:15:"central_columns";s:16:"Zentrale Spalten";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:8:"Anzeigen";s:9:"structure";s:8:"Struktur";s:3:"sql";s:3:"SQL";s:6:"search";s:5:"Suche";s:6:"insert";s:9:"Einfügen";s:6:"export";s:11:"Exportieren";s:6:"import";s:11:"Importieren";s:10:"privileges";s:6:"Rechte";s:9:"operation";s:11:"Operationen";s:8:"tracking";s:14:"Nachverfolgung";s:8:"triggers";s:7:"Trigger";}s:12:"is_superuser";b:1;s:14:"mysql_cur_user";s:14:"root@localhost";s:12:"is_grantuser";b:1;}s:13:"version_check";a:2:{s:8:"response";s:411:"{
+    "version": "5.2.2",
+    "date": "2025-01-21",
+    "releases": [
+        {
+            "version": "5.2.2",
+            "date": "2025-01-21",
+            "php_versions": ">=7.2,<8.4",
+            "mysql_versions": ">=5.5"
+        },
+        {
+            "version": "4.9.11",
+            "date": "2023-02-08",
+            "php_versions": ">=5.5,<8.0",
+            "mysql_versions": ">=5.5"
+        }
+    ]
+}";s:9:"timestamp";i:1751543585;}}tmpval|a:16:{s:14:"favoriteTables";a:1:{i:1;a:0:{}}s:12:"recentTables";a:1:{i:1;a:10:{i:0;a:2:{s:2:"db";s:5:"mysql";s:5:"table";s:10:"help_topic";}i:1;a:2:{s:2:"db";s:5:"mysql";s:5:"table";s:13:"help_category";}i:2;a:2:{s:2:"db";s:5:"mysql";s:5:"table";s:12:"help_keyword";}i:3;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";}i:4;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:16:"deliveries_items";}i:5;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:10:"deliveries";}i:6;a:2:{s:2:"db";s:5:"mysql";s:5:"table";s:6:"plugin";}i:7;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:8:"item_mvt";}i:8;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:9:"purchases";}i:9;a:2:{s:2:"db";s:11:"storageboxx";s:5:"table";s:15:"purchases_items";}}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:5:"mysql";s:13:"table_uiprefs";a:1:{i:1;a:2:{s:11:"storageboxx";a:12:{s:5:"items";a:0:{}s:8:"item_mvt";a:0:{}s:7:"webpush";a:0:{}s:10:"users_hash";a:0:{}s:9:"tablename";a:0:{}s:15:"suppliers_items";a:0:{}s:9:"suppliers";a:0:{}s:8:"settings";a:0:{}s:15:"purchases_items";a:0:{}s:9:"purchases";a:0:{}s:10:"deliveries";a:0:{}s:16:"deliveries_items";a:0:{}}s:5:"mysql";a:4:{s:6:"plugin";a:0:{}s:12:"help_keyword";a:0:{}s:13:"help_category";a:0:{}s:10:"help_topic";a:0:{}}}}s:5:"query";a:10:{s:32:"a780e0f11ca6e26c4cb73b3a757bc6fb";a:8:{s:3:"sql";s:24:"SELECT * FROM `settings`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"0b876a8eba7e11a6c148013c55e5dbf0";a:8:{s:3:"sql";s:31:"SELECT * FROM `purchases_items`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"0f9c525d27ea80172d9c8463d0f508fe";a:8:{s:3:"sql";s:25:"SELECT * FROM `purchases`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"de3346332594891e895be6d6aabd7627";a:8:{s:3:"sql";s:22:"SELECT * FROM `plugin`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"c15c8bd1f3bd4e9d1a7d56f48ea7103b";a:8:{s:3:"sql";s:26:"SELECT * FROM `deliveries`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"d572eca30298472704d3bfa3f1f613e2";a:8:{s:3:"sql";s:32:"SELECT * FROM `deliveries_items`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"315635d3d10984ad71b6928bae96af1f";a:8:{s:3:"sql";s:21:"SELECT * FROM `items`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"6048a7129783466f54bcb009d14f285c";a:8:{s:3:"sql";s:28:"SELECT * FROM `help_keyword`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"738283a90596b38e99397e1ee1be3e6a";a:8:{s:3:"sql";s:29:"SELECT * FROM `help_category`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b3bfee3cda382d29ebb00613a6ccd053";a:8:{s:3:"sql";s:26:"SELECT * FROM `help_topic`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:20:"possible_as_geometry";b:1;}git_location|N;is_git_revision|b:0;ConfigFile1|a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}flashMessages|a:0:{}is_multi_query|b:0;sql_history|a:25:{i:0;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:1;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:2;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:3;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:4;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:5;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:8:"item_mvt";s:8:"sqlquery";s:24:"SELECT * FROM `item_mvt`";}i:6;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:7;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:8;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:7:"webpush";s:8:"sqlquery";s:23:"SELECT * FROM `webpush`";}i:9;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:10:"users_hash";s:8:"sqlquery";s:26:"SELECT * FROM `users_hash`";}i:10;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:9:"tablename";s:8:"sqlquery";s:25:"SELECT * FROM `tablename`";}i:11;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:15:"suppliers_items";s:8:"sqlquery";s:31:"SELECT * FROM `suppliers_items`";}i:12;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:9:"suppliers";s:8:"sqlquery";s:25:"SELECT * FROM `suppliers`";}i:13;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:8:"settings";s:8:"sqlquery";s:24:"SELECT * FROM `settings`";}i:14;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:15:"purchases_items";s:8:"sqlquery";s:31:"SELECT * FROM `purchases_items`";}i:15;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:9:"purchases";s:8:"sqlquery";s:25:"SELECT * FROM `purchases`";}i:16;a:3:{s:2:"db";s:5:"mysql";s:5:"table";s:6:"plugin";s:8:"sqlquery";s:22:"SELECT * FROM `plugin`";}i:17;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:18;a:3:{s:2:"db";s:5:"mysql";s:5:"table";s:6:"plugin";s:8:"sqlquery";s:22:"SELECT * FROM `plugin`";}i:19;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:10:"deliveries";s:8:"sqlquery";s:26:"SELECT * FROM `deliveries`";}i:20;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:16:"deliveries_items";s:8:"sqlquery";s:32:"SELECT * FROM `deliveries_items`";}i:21;a:3:{s:2:"db";s:11:"storageboxx";s:5:"table";s:5:"items";s:8:"sqlquery";s:21:"SELECT * FROM `items`";}i:22;a:3:{s:2:"db";s:5:"mysql";s:5:"table";s:12:"help_keyword";s:8:"sqlquery";s:28:"SELECT * FROM `help_keyword`";}i:23;a:3:{s:2:"db";s:5:"mysql";s:5:"table";s:13:"help_category";s:8:"sqlquery";s:29:"SELECT * FROM `help_category`";}i:24;a:3:{s:2:"db";s:5:"mysql";s:5:"table";s:10:"help_topic";s:8:"sqlquery";s:26:"SELECT * FROM `help_topic`";}}Import_message|a:1:{s:7:"message";s:9209:"<div class="alert alert-danger" role="alert"><h1>Fehler</h1><p><strong>SQL-Befehl:</strong>  <a href="#" class="copyQueryBtn" data-text="(
+                SELECT `User`, `Host`, `Select_priv`,
+            `Insert_priv`,
+            `Update_priv`,
+            `Delete_priv`,
+            `Create_priv`,
+            `Drop_priv`,
+            `Grant_priv`,
+            `Index_priv`,
+            `Alter_priv`,
+            `References_priv`,
+            `Create_tmp_table_priv`,
+            `Lock_tables_priv`,
+            `Create_view_priv`,
+            `Show_view_priv`,
+            `Create_routine_priv`,
+            `Alter_routine_priv`,
+            `Execute_priv`,
+            `Event_priv`,
+            `Trigger_priv`, &#039;*&#039; AS `Db`, &#039;g&#039; AS `Type`
+                FROM `mysql`.`user`
+                WHERE NOT (BINARY `Select_priv` = &#039;N&#039; AND
+            BINARY `Insert_priv` = &#039;N&#039; AND
+            BINARY `Update_priv` = &#039;N&#039; AND
+            BINARY `Delete_priv` = &#039;N&#039; AND
+            BINARY `Create_priv` = &#039;N&#039; AND
+            BINARY `Drop_priv` = &#039;N&#039; AND
+            BINARY `Grant_priv` = &#039;N&#039; AND
+            BINARY `References_priv` = &#039;N&#039; AND
+            BINARY `Create_tmp_table_priv` = &#039;N&#039; AND
+            BINARY `Lock_tables_priv` = &#039;N&#039; AND
+            BINARY `Create_view_priv` = &#039;N&#039; AND
+            BINARY `Show_view_priv` = &#039;N&#039; AND
+            BINARY `Create_routine_priv` = &#039;N&#039; AND
+            BINARY `Alter_routine_priv` = &#039;N&#039; AND
+            BINARY `Execute_priv` = &#039;N&#039; AND
+            BINARY `Event_priv` = &#039;N&#039; AND
+            BINARY `Trigger_priv` = &#039;N&#039;)
+            )
+            UNION
+            (
+                SELECT `User`, `Host`, `Select_priv`,
+            `Insert_priv`,
+            `Update_priv`,
+            `Delete_priv`,
+            `Create_priv`,
+            `Drop_priv`,
+            `Grant_priv`,
+            `Index_priv`,
+            `Alter_priv`,
+            `References_priv`,
+            `Create_tmp_table_priv`,
+            `Lock_tables_priv`,
+            `Create_view_priv`,
+            `Show_view_priv`,
+            `Create_routine_priv`,
+            `Alter_routine_priv`,
+            `Execute_priv`,
+            `Event_priv`,
+            `Trigger_priv`, `Db`, &#039;d&#039; AS `Type`
+                FROM `mysql`.`db`
+                WHERE &#039;storageboxx&#039; LIKE `Db` AND NOT (BINARY `Select_priv` = &#039;N&#039; AND
+            BINARY `Insert_priv` = &#039;N&#039; AND
+            BINARY `Update_priv` = &#039;N&#039; AND
+            BINARY `Delete_priv` = &#039;N&#039; AND
+            BINARY `Create_priv` = &#039;N&#039; AND
+            BINARY `Drop_priv` = &#039;N&#039; AND
+            BINARY `Grant_priv` = &#039;N&#039; AND
+            BINARY `References_priv` = &#039;N&#039; AND
+            BINARY `Create_tmp_table_priv` = &#039;N&#039; AND
+            BINARY `Lock_tables_priv` = &#039;N&#039; AND
+            BINARY `Create_view_priv` = &#039;N&#039; AND
+            BINARY `Show_view_priv` = &#039;N&#039; AND
+            BINARY `Create_routine_priv` = &#039;N&#039; AND
+            BINARY `Alter_routine_priv` = &#039;N&#039; AND
+            BINARY `Execute_priv` = &#039;N&#039; AND
+            BINARY `Event_priv` = &#039;N&#039; AND
+            BINARY `Trigger_priv` = &#039;N&#039;)
+            )
+            ORDER BY `User` ASC, `Host` ASC, `Db` ASC;">Kopieren</a>
+<a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F8.0%2Fen%2Fselect.html" target="mysql_doc"><img src="themes/dot.gif" title="Dokumentation" alt="Dokumentation" class="icon ic_b_help"></a><a href="index.php?route=/table/sql&sql_query=%28%0A++++++++++++++++SELECT+%60User%60%2C+%60Host%60%2C+%60Select_priv%60%2C%0A++++++++++++%60Insert_priv%60%2C%0A++++++++++++%60Update_priv%60%2C%0A++++++++++++%60Delete_priv%60%2C%0A++++++++++++%60Create_priv%60%2C%0A++++++++++++%60Drop_priv%60%2C%0A++++++++++++%60Grant_priv%60%2C%0A++++++++++++%60Index_priv%60%2C%0A++++++++++++%60Alter_priv%60%2C%0A++++++++++++%60References_priv%60%2C%0A++++++++++++%60Create_tmp_table_priv%60%2C%0A++++++++++++%60Lock_tables_priv%60%2C%0A++++++++++++%60Create_view_priv%60%2C%0A++++++++++++%60Show_view_priv%60%2C%0A++++++++++++%60Create_routine_priv%60%2C%0A++++++++++++%60Alter_routine_priv%60%2C%0A++++++++++++%60Execute_priv%60%2C%0A++++++++++++%60Event_priv%60%2C%0A++++++++++++%60Trigger_priv%60%2C+%27%2A%27+AS+%60Db%60%2C+%27g%27+AS+%60Type%60%0A++++++++++++++++FROM+%60mysql%60.%60user%60%0A++++++++++++++++WHERE+NOT+%28BINARY+%60Select_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Insert_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Update_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Delete_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Drop_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Grant_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60References_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_tmp_table_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Lock_tables_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_view_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Show_view_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_routine_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Alter_routine_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Execute_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Event_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Trigger_priv%60+%3D+%27N%27%29%0A++++++++++++%29%0A++++++++++++UNION%0A++++++++++++%28%0A++++++++++++++++SELECT+%60User%60%2C+%60Host%60%2C+%60Select_priv%60%2C%0A++++++++++++%60Insert_priv%60%2C%0A++++++++++++%60Update_priv%60%2C%0A++++++++++++%60Delete_priv%60%2C%0A++++++++++++%60Create_priv%60%2C%0A++++++++++++%60Drop_priv%60%2C%0A++++++++++++%60Grant_priv%60%2C%0A++++++++++++%60Index_priv%60%2C%0A++++++++++++%60Alter_priv%60%2C%0A++++++++++++%60References_priv%60%2C%0A++++++++++++%60Create_tmp_table_priv%60%2C%0A++++++++++++%60Lock_tables_priv%60%2C%0A++++++++++++%60Create_view_priv%60%2C%0A++++++++++++%60Show_view_priv%60%2C%0A++++++++++++%60Create_routine_priv%60%2C%0A++++++++++++%60Alter_routine_priv%60%2C%0A++++++++++++%60Execute_priv%60%2C%0A++++++++++++%60Event_priv%60%2C%0A++++++++++++%60Trigger_priv%60%2C+%60Db%60%2C+%27d%27+AS+%60Type%60%0A++++++++++++++++FROM+%60mysql%60.%60db%60%0A++++++++++++++++WHERE+%27storageboxx%27+LIKE+%60Db%60+AND+NOT+%28BINARY+%60Select_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Insert_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Update_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Delete_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Drop_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Grant_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60References_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_tmp_table_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Lock_tables_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_view_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Show_view_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Create_routine_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Alter_routine_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Execute_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Event_priv%60+%3D+%27N%27+AND%0A++++++++++++BINARY+%60Trigger_priv%60+%3D+%27N%27%29%0A++++++++++++%29%0A++++++++++++ORDER+BY+%60User%60+ASC%2C+%60Host%60+ASC%2C+%60Db%60+ASC%3B&show_query=1&db=storageboxx&table=items"><span class="text-nowrap"><img src="themes/dot.gif" title="Bearbeiten" alt="Bearbeiten" class="icon ic_b_edit">&nbsp;Bearbeiten</span></a>    </p>
+<p>
+<code class="sql"><pre>
+(
+                SELECT `User`, `Host`, `Select_priv`,
+            `Insert_priv`,
+            `Update_priv`,
+            `Delete_priv`,
+            `Create_priv`,
+            `Drop_priv`,
+            `Grant_priv`,
+            `Index_priv`,
+            `Alter_priv`,
+            `References_priv`,
+            `Create_tmp_table_priv`,
+            `Lock_tables_priv`,
+            `Create_view_priv`,
+            `Show_view_priv`,
+            `Create_routine_priv`,
+            `Alter_routine_priv`,
+            `Execute_priv`,
+            `Event_priv`,
+            `Trigger_priv`, '*' AS `Db`, 'g' AS `Type`
+                FROM `mysql`.`user`
+                WHERE NOT (BINARY `Select_priv` = 'N' AND
+            BINARY `Insert_priv` = 'N' AND
+            BINARY `Update_priv` = 'N' AND
+            BINARY `Delete_priv` = 'N' AND
+            BINARY `Create_priv` = 'N' AND
+            BINARY `Drop_priv` = 'N' AND
+            BINARY `Grant_priv` = 'N' AND
+            BINARY `References_priv` = 'N' A[...]
+</pre></code>
+</p>
+<p>
+    <strong>MySQL meldet: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F8.0%2Fen%2Fserver-error-reference.html" target="mysql_doc"><img src="themes/dot.gif" title="Dokumentation" alt="Dokumentation" class="icon ic_b_help"></a>
+</p>
+<code>#1030 - Fehler 176 &quot;Read page with wrong checksum&quot; von Speicher-Engine Aria</code><br></div>";}errors|a:0:{}
